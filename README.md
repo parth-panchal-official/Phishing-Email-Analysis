@@ -1,4 +1,4 @@
-#Task 2: Analyze a Phishing Email Sample
+# Task 2: Analyze a Phishing Email Sample
 
 ## Objective
 
